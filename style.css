@@ -1,0 +1,33 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+.title {
+  color: yellow;
+  background-color: green;
+  text-align: center;
+}
+
+h1 {
+  background-color: cornflowerblue;
+}
+
+h2 {
+  background-color: red;
+}
+
+.home {
+  background-color: green;
+  font-weight: bold;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+p,
+ol,
+ul {
+  background-color: lavender;
+  color: black;
+  font-weight: lighter;
+}
